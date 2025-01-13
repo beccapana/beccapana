@@ -93,7 +93,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Game](https://mistvalley.ru/)  
+- 🔭 I’m currently working on [Game](https://mistvalley.ru/)  and developing a [linter](https://github.com/beccapana/GML_linter) for it
    
   
 - ⚡ Fun fact: I sit in the dark at night
